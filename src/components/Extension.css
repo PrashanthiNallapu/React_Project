@@ -1,0 +1,35 @@
+.education-detail {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .education-detail h3 {
+    margin-top: 20px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .education-detail p {
+    margin-top: 10px;
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  .education-detail img {
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .education-detail img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .row-gap {
+    margin-bottom: 40px; 
+  }
+  

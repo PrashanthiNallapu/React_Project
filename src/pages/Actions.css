@@ -1,0 +1,32 @@
+.actions-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .actions-image {
+    width: 990px;
+    height: 400px;
+    margin-bottom: 20px;
+  }
+  .actions-image1 {
+    width: 990px;
+    height: 400px;
+    margin-bottom: 20px;
+  }
+  
+  .actions-content {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .actions-content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .actions-content p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
